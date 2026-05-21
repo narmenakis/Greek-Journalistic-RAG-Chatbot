@@ -68,9 +68,6 @@ streamlit run app.py
 
 The application will open in a web browser. If it does not open automatically, copy the local URL displayed in the terminal and paste it into your browser.
 
-````
-
-```markdown
 ## Notes
 
 - Make sure the required dataset files are placed in the expected directory before creating the vector database.
