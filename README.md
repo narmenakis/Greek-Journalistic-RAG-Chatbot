@@ -73,4 +73,4 @@ The application will open in a web browser. If it does not open automatically, c
 - Make sure the required dataset files are placed in the expected directory before creating the vector database.
 - A GPU is recommended for local LLM inference, although the application may run on CPU with reduced performance.
 - The first execution may take longer because models and resources need to be loaded and cached.
-````
+
