@@ -1,7 +1,7 @@
 # Greek-Journalistic-RAG-Chatbot
+
 Open-source RAG chatbot for Greek newsrooms using Llama-KriKri-8B-Instruct, Chroma, and multilingual embeddings to provide source-grounded question answering over Greek news archives.
 
-````markdown
 ## Installation and Usage
 
 ### 1. Create and activate a virtual environment
@@ -13,7 +13,7 @@ It is recommended to run the project inside a virtual environment.
 ```bash
 python -m venv venv
 venv\Scripts\activate
-````
+```
 
 #### Linux
 
@@ -21,6 +21,7 @@ venv\Scripts\activate
 python3 -m venv venv
 source venv/bin/activate
 ```
+
 
 #### macOS
 
