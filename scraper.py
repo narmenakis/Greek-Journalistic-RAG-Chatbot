@@ -180,7 +180,7 @@ def get_scraper(url):
 
 def main():
     input_file = 'links.txt'
-    output_file = 'new_sample_dataset.csv'
+    output_file = 'sample_database.csv'
 
     urls = []
     with open(input_file, 'r', encoding='utf-8') as f:
